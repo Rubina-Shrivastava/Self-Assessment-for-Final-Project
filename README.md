@@ -5,10 +5,10 @@
 
 ## Team Assessment:
 ### We worked as a team with each member who brought distinctive skills and collaborated during the entire process of project selection, design, and distribution of different roles and responsibilities.  Below is the list of team members and their roles in the project.
-•	Presentation lead: Andrew Winkelman
-•	Machine Learning Model lead: Michelle Ewers
-•	Database & ETL lead: Rubina Shrivastava
-•	Dashboard lead: Alexandra Williams / Andrew Winkelman
+###	Presentation lead: Andrew Winkelman/Alexandra Williams 
+###	Machine Learning Model lead: Michelle Ewers
+### Dashboard lead: Alexandra Williams / Andrew Winkelman
+###	Database & ETL lead: Rubina Shrivastava
 
 
 ## Summary of the project:
